@@ -1,0 +1,12 @@
+* {border:none; margin:0; padding:0; list-style: none;}
+
+header { padding: 50px 0; }
+header h1 { text-align: center;}
+
+.btnLoad { padding:3px 5px; }
+
+input { border:1px solid #ccc; border-radius: 5px; margin:0 0 25px; padding:5px 10px; 
+    width: 50%; font-size: 21px;}
+label { display:block; }
+button { width: 31%; margin: 0 1% 1%; border:1px solid #ccc; padding:10px 0; font-weight: 700; font-size: 18px;}
+.calcPanel { text-align: center;}
